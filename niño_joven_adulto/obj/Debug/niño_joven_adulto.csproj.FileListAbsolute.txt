@@ -1,0 +1,6 @@
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\bin\Debug\niño_joven_adulto.exe.config
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\bin\Debug\niño_joven_adulto.exe
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\bin\Debug\niño_joven_adulto.pdb
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\obj\Debug\niño_joven_adulto.exe
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\obj\Debug\niño_joven_adulto.pdb
+c:\users\fl\documents\visual studio 2015\Projects\niño_joven_adulto\niño_joven_adulto\obj\Debug\niño_joven_adulto.csprojResolveAssemblyReference.cache
